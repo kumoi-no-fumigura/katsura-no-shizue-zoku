@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/katsura-no-shizue-zoku",
  "yomi": "かつらのしずえぞくへん",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌学書（聞書）",
+  "era": "明治3年（1870）7月",
+  "author": "内山真弓 等",
+  "desc": "「桂の下枝」の続編。桂園の塾中で聞いた景樹の説などを門人が記したもの。言葉は時に従うべきだとし、調べを重んじる桂園派の考えを述べる。"
+ },
  "editions": [
   {
    "pid": "993388",
